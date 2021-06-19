@@ -1,1 +1,1 @@
-#SWIFT application for the Challanges assigment
+# SWIFT application for the Challanges assigment
