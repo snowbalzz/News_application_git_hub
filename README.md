@@ -5,7 +5,7 @@ Hello and welcome to my first ever application for the __IOS device__.
 This application is made to gather and information from a News API and display the response, 
 in a really nice table view. 
 
-To see how this application works watch this video on youtube: 
+To see how this application works watch this video on youtube: https://www.youtube.com/watch?v=Zwnpp9Y1wDs
 
 
 Further more in this readme file I will explain how to test and run this application on you computer.
