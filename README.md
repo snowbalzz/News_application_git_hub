@@ -63,8 +63,8 @@ __Disclaimer : "You do not need a an Apple Dev Certificate to run and test appli
 
 [![Screenshot-2021-06-19-at-21-45-38.png](https://i.postimg.cc/dQZVD9Q3/Screenshot-2021-06-19-at-21-45-38.png)](https://postimg.cc/14PQjwq1)
 
->Because I was testing the code on the Iphone SE 2nd, I want to you to set up your simulator to simualte the
->Iphone SE 2nd generation. 
+>Because I was testing the code on the Iphone SE 2nd generation, I want to you to set up your simulator to simualte the
+>Iphone SE 2nd generation aswell. 
 
 [![Screenshot-2021-06-19-at-21-46-39.png](https://i.postimg.cc/y6R77YnS/Screenshot-2021-06-19-at-21-46-39.png)](https://postimg.cc/K4m6Nb6Z)
 
@@ -84,7 +84,7 @@ After swiping now you can see and read and even open the latest news articles on
 
 [![Screenshot-2021-06-19-at-21-49-58.png](https://i.postimg.cc/kGqYrcfs/Screenshot-2021-06-19-at-21-49-58.png)](https://postimg.cc/472QVzCH)
 
-Reading in the in app safari browser or any other default browser on your IOS device.
+Reading news in the in-app safari browser or any other default browser on your IOS device.
 
 [![Screenshot-2021-06-19-at-21-52-18.png](https://i.postimg.cc/6pgH6wMy/Screenshot-2021-06-19-at-21-52-18.png)](https://postimg.cc/WdmmXRLv)
 
